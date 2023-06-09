@@ -1,31 +1,23 @@
 ---
-title: "index"
+title: "FY23 Exploratory Analysis"
 output: html_document
-date: "2023-06-09"
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<a href="MAP_Analysis.html">MAP Analysis</a>
+<a href="MAP_Analysis.html" style="font-size: 16px;">MAP Analysis</a>
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<a href="Course-Grades-Analysis.html" style="font-size: 16px;">Course Grades Analysis</a>
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+<a href="DESSA-Analysis.html" style="font-size: 16px;">DESSA Analysis</a>
 
-## Including Plots
 
-You can also embed plots, for example:
+<a href="ADA_Analysis.html" style="font-size: 16px;">ADA Analysis</a>
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<a href="FL-Longitudinal.html" style="font-size: 16px;">Longitudinal Analysis</a>
