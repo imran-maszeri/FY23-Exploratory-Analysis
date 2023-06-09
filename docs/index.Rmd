@@ -22,6 +22,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <a href="FL-Longitudinal.html" style="font-size: 16px;">Longitudinal Analysis</a>
 
-## Cumulative Students Served from FY14-FY23
+## Cumulative Student Population Served from FY14-FY23
 
 ![](../docs/CumulativeStudentPopulation.png)
