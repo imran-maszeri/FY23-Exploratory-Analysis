@@ -1,7 +1,6 @@
 ---
 title: "FY23 Exploratory Analysis"
 output: html_document
-date: "Last Compiled on `r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 ```{r setup, include=FALSE}
